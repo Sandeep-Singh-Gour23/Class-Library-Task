@@ -1,0 +1,13 @@
+D:\Augmento Labs\Class Library 1\bin\Debug\net5.0\Class Library 1.deps.json
+D:\Augmento Labs\Class Library 1\bin\Debug\net5.0\Class Library 1.dll
+D:\Augmento Labs\Class Library 1\bin\Debug\net5.0\Class Library 1.pdb
+D:\Augmento Labs\Class Library 1\obj\Debug\net5.0\Class Library 1.csproj.AssemblyReference.cache
+D:\Augmento Labs\Class Library 1\obj\Debug\net5.0\Class Library 1.GeneratedMSBuildEditorConfig.editorconfig
+D:\Augmento Labs\Class Library 1\obj\Debug\net5.0\Class Library 1.AssemblyInfoInputs.cache
+D:\Augmento Labs\Class Library 1\obj\Debug\net5.0\Class Library 1.AssemblyInfo.cs
+D:\Augmento Labs\Class Library 1\obj\Debug\net5.0\Class Library 1.csproj.CoreCompileInputs.cache
+D:\Augmento Labs\Class Library 1\obj\Debug\net5.0\Class Library 1.dll
+D:\Augmento Labs\Class Library 1\obj\Debug\net5.0\refint\Class Library 1.dll
+D:\Augmento Labs\Class Library 1\obj\Debug\net5.0\Class Library 1.pdb
+D:\Augmento Labs\Class Library 1\obj\Debug\net5.0\ref\Class Library 1.dll
+D:\Augmento Labs\Class Library 1\obj\Debug\net5.0\Class Library 1.csproj.ResolveComReference.cache

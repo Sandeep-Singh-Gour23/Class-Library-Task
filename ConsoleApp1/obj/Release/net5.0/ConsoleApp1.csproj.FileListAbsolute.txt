@@ -1,0 +1,19 @@
+D:\Augmento Labs\ConsoleApp1\bin\Release\net5.0\ConsoleApp1.exe
+D:\Augmento Labs\ConsoleApp1\bin\Release\net5.0\ConsoleApp1.deps.json
+D:\Augmento Labs\ConsoleApp1\bin\Release\net5.0\ConsoleApp1.runtimeconfig.json
+D:\Augmento Labs\ConsoleApp1\bin\Release\net5.0\ConsoleApp1.runtimeconfig.dev.json
+D:\Augmento Labs\ConsoleApp1\bin\Release\net5.0\ConsoleApp1.dll
+D:\Augmento Labs\ConsoleApp1\bin\Release\net5.0\ConsoleApp1.pdb
+D:\Augmento Labs\ConsoleApp1\bin\Release\net5.0\Class Library 1.dll
+D:\Augmento Labs\ConsoleApp1\bin\Release\net5.0\Class Library 1.pdb
+D:\Augmento Labs\ConsoleApp1\obj\Release\net5.0\ConsoleApp1.csproj.AssemblyReference.cache
+D:\Augmento Labs\ConsoleApp1\obj\Release\net5.0\ConsoleApp1.GeneratedMSBuildEditorConfig.editorconfig
+D:\Augmento Labs\ConsoleApp1\obj\Release\net5.0\ConsoleApp1.AssemblyInfoInputs.cache
+D:\Augmento Labs\ConsoleApp1\obj\Release\net5.0\ConsoleApp1.AssemblyInfo.cs
+D:\Augmento Labs\ConsoleApp1\obj\Release\net5.0\ConsoleApp1.csproj.CoreCompileInputs.cache
+D:\Augmento Labs\ConsoleApp1\obj\Release\net5.0\ConsoleApp1.csproj.CopyComplete
+D:\Augmento Labs\ConsoleApp1\obj\Release\net5.0\ConsoleApp1.dll
+D:\Augmento Labs\ConsoleApp1\obj\Release\net5.0\refint\ConsoleApp1.dll
+D:\Augmento Labs\ConsoleApp1\obj\Release\net5.0\ConsoleApp1.pdb
+D:\Augmento Labs\ConsoleApp1\obj\Release\net5.0\ConsoleApp1.genruntimeconfig.cache
+D:\Augmento Labs\ConsoleApp1\obj\Release\net5.0\ref\ConsoleApp1.dll
